@@ -2,25 +2,25 @@
   "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.5/MicrosoftTeams.schema.json",
   "manifestVersion": "1.3",
   "version": "1.0.0",
-  "id": "00000000-0000-0000-0000-000000000000",
-  "packageName": "com.contoso.helloworld",
+  "id": "19058536-720f-4d5a-868a-bf47d9b9076a",
+  "packageName": "com.connectedworker.iconnect",
   "developer": {
-    "name": "Contoso",
+    "name": "connectedworker",
     "websiteUrl": "https://www.microsoft.com",
     "privacyUrl": "https://www.microsoft.com/privacy",
     "termsOfUseUrl": "https://www.microsoft.com/termsofuse"
   },
   "name": {
-    "short": "Hello World",
-    "full": "Hello World App"
+    "short": "IConnect",
+    "full": "IConnect"
   },
   "description": {
-    "short": "Hello World App for Microsoft Teams",
-    "full": "This sample app provides a very simple app. You can extend this to add more content and capabilities."
+    "short": "IConnect App for Microsoft Teams",
+    "full": "IConnect App for Microsoft Teams"
   },
   "icons": {
-    "outline": "contoso20x20.png",
-    "color": "contoso96x96.png"
+    "outline": "Picture1.png",
+    "color": "Picture1.png"
   },
   "accentColor": "#60A18E",
   "staticTabs": [
